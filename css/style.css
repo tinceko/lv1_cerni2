@@ -1,0 +1,207 @@
+body{
+    margin: 0;
+    font-size: 16px;
+    font-family: "Montserrat",sans-serif;
+    }
+  .navi{
+    background-color: #4e598c;
+    margin: 0;
+    }
+    
+  .container{
+    
+    margin: 0 auto;
+    width: 70%;
+    
+    
+    }
+    
+  .ul-container {
+    
+    list-style-type: none;
+    display: flex;
+    align-items:center;
+    font-size: 16px;
+  
+    
+    
+    }
+  .ul-container a{
+    color: #f4f4f4;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 11px;
+    
+    }
+  .right{ 
+    margin-left:auto;
+    padding: 0;
+    float: right;
+    
+    }
+  .content-left{
+    width: 70%; 
+    background-attachment: fixed;
+    background-color:#f7fff7;
+  
+    }
+  .content-right{
+    width: 30%;
+    background:#4E598C ;
+    
+    }
+    i{
+    color: #f4f4f4;
+    }
+    h1{
+    color: orange;
+    }
+    
+  .content-container {
+    display: flex;;
+    margin-top: 15px;
+    }
+    .obavijesti{
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0;
+    } 
+    
+  
+    
+    
+  .datum{
+    background-color: #4E598C;
+    color: white;
+    border-radius: 12px;
+    padding: 2px 10px;
+    
+    }
+    .ovaj{
+      margin: 12px 0;
+    }
+    .links{
+     display: flex;
+     flex-direction: column;
+    background-color: #4e598c;
+    align-self: flex-start;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 30%;
+    
+  }
+  .ured{
+      text-decoration: none;
+      color: white;
+      margin: 10px 0;
+    }
+  .footer {
+      background-color: #4c478f;
+      color: #ff9400;
+      text-align: center;
+      padding: 20px;
+      margin-top: 20px;
+      
+    }
+    .slika{
+      margin-top: 10px;
+    }
+    .top{
+      color:#4e598c ;
+      margin-left: 30px;
+      
+    }
+    .div-prvi{
+      background-color: #F7FFF7;
+      width: 80%;
+      margin:0 auto;
+      
+    }
+    .Vizija, .misija{
+      color: black;
+    }
+    .span1{
+      color: black;
+    }
+   .klasa{
+    margin:0 auto;
+    width: 80%;
+    background-color: #4E598C;
+  
+   }
+   .suti{
+    background-color: #F7FFF7;
+      width: 80%;
+      margin:0 auto;
+   }
+   .top2{
+    color:#4e598c ;
+      margin-left: 30px;
+   }
+  
+  li{
+    margin-top: 10px;
+  }
+  ul{
+    margin-top: 10px;
+  }
+  .suti {
+  
+    width: 80%;
+    
+    margin: 0 auto;
+    
+    background-color: #f7fff7;
+    
+    }
+    
+    
+  table {
+    
+    width: 80%;
+    
+    margin: 20px auto;
+    
+    }
+  thead{
+    background-color:#4E598C ;
+    color:white;
+    justify-content: center;
+  }
+  .suti2{
+    width: 80%;
+    
+    margin: 0 auto;
+    
+    background-color: #F7FFF7;
+  }
+  input{
+  
+    width: 98%;
+  
+    
+    }
+    
+    .obraz{
+    
+    font-size: large;
+    
+    
+    }
+    
+  .submit{
+    
+    background-color: #4E598C;
+    border: 1;
+    height: 37px;
+    
+    }
+  .Submit{
+    background-color: #4E598C;
+    color: White;
+  }
+  
+  
